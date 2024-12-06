@@ -8,7 +8,7 @@ public class SpringBootExamProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootExamProjectApplication.class, args);
-		System.out.println("Project Running Successfully....!!!!!");
+		System.out.println("Hi Git...!!!");
 	}
 
 }
